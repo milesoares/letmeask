@@ -13,7 +13,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="20px" > [TypeScript](https://www.typescriptlang.org/)
 
-### Para visualizar o projeto siga os passos abaixo::
+### Para visualizar o projeto siga os passos abaixo:
 
 ```bash
 # Instale as dependências
@@ -22,7 +22,7 @@ $ yarn
 # Iniciar o projeto
 $ yarn start
 ```
-<p> Estára disponível para acesso em seu navegador em http://localhost:3000</p>
+<p> Estará disponível para acesso em seu navegador em http://localhost:3000</p>
 
 ### Layout
 
